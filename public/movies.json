@@ -1,0 +1,94 @@
+[
+	{
+		"id": 1,
+		"title": "V-TUBERS REMAKE",
+		"image": "/images/hqdefault.webp",
+		"banner": "/banner/vtubers.png",
+		"logoImage": "/logo/vtubers_logo.png",
+		"youtube": "uLJJgOWjlQs",
+		"description": "Cuando un niño desaparece, un pequeño pueblo descubre un misterio que involucra experimentos secretos, fuerzas sobrenaturales y a una niña muy extraña.",
+		"year": "2023",
+		"rating": "TV-14",
+		"isMainBanner": true,
+		"categories": [
+			"Vtubers Saga"
+		]
+	},
+	{
+		"id": 2,
+		"title": "V-TUBERS LEGION",
+		"image": "/images/hqdefault-1.webp",
+		"banner": "/banner/vtubers_legion.png",
+		"logoImage": "/logo/vtubers_legion_logo.png",
+		"youtube": "JidCSg_fdGk",
+		"description": "CREDITOS: Director: NandoBarturas, Co-dirección: Jesse Doe...",
+		"year": "2023",
+		"rating": "TV-MA",
+		"isMainBanner": false,
+		"categories": [
+			"Vtubers Saga"
+		]
+	},
+	{
+		"id": 3,
+		"title": "V-TUBERS ZERO",
+		"image": "/images/hqdefault-2.webp",
+		"banner": "/banner/vtubers_zero.png",
+		"logoImage": "/logo/vtubers_zero_logo.png",
+		"youtube": "QBKKn_KpvRE",
+		"description": "En 1983, Nando y Makuru, dos jóvenes apasionados por los V-Tubers, se unen para triunfar en ese mundo junto a sus amigos, pero pronto descubren que sus ideales divergen.",
+		"year": "2023",
+		"rating": "TV-PG",
+		"isMainBanner": false,
+		"categories": [
+			"Vtubers Saga"
+		]
+	},
+	{
+		"id": 4,
+		"title": "V-TUBERS CHARLOTTE",
+		"image": "/images/hqdefault-3.webp",
+		"banner": "/banner/vtubers_charlotte.png",
+		"logoImage": "/logo/vtubers_charlotte_logo.png",
+		"youtube": "SgGuFl7Szy8",
+		"description": "En un mundo aterrorizado por V-Tubers con poderes, un robot asesino llamado ASRIA tiene como misión acabar con ellos. Los pocos sobrevivientes deben viajar al pasado para conseguir un control que les permita detenerlo.",
+		"year": "2024",
+		"rating": "TV-14",
+		"isMainBanner": false,
+		"categories": [
+			"Vtubers Saga"
+		]
+	},
+	{
+		"id": 5,
+		"title": "Everise, El Fenix Purpura",
+		"subtitle": "Capitulo 1: El pais que siempre se levanta",
+		"image": "/images/everise1.webp",
+		"banner": "/banner/everise_season_1.png",
+		"logoImage": "/logo/logo_el_fenix_purpura.png",
+		"youtube": "AFpDSsNvgSs",
+		"description": "Después de una guerra celestial, el Reino de Charlotte y Underland se encuentran en tensión. Entre el dolor de una relación rota con su hermana, la reina Charlotte decide renombrar su reino como Everise.",
+		"year": "2024",
+		"rating": "TV-14",
+		"isMainBanner": false,
+		"categories": [
+			"Everise, El Fenix Purpura"
+		]
+	},
+	{
+		"id": 6,
+		"title": "Everise El Fenix Purpura",
+		"subtitle": "Capitulo 2: La comandante Karen Sakurai",
+		"image": "/images/everise2.webp",
+		"banner": "/banner/everise_season_1.png",
+		"logoImage": "/logo/logo_el_fenix_purpura.png",
+		"youtube": "qiKWXeDNquc",
+		"description": "A dos años de las elecciones en Everise, el país se sume en un conflicto por la sucesión presidencial, y Karen Sakurai, comandante de la seguridad en Venus, hará lo que sea para mantenerse en juego.",
+		"year": "2024",
+		"rating": "TV-14",
+		"isMainBanner": false,
+		"categories": [
+			"Everise, El Fenix Purpura"
+		]
+	}
+]
